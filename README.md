@@ -1,2 +1,2 @@
-# AkhilaAMiot_phase2
+# AkhilaAMIOT_phase2
 phase 2 project
